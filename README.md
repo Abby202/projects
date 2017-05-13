@@ -11,4 +11,4 @@ This repository documents all my data science projects, where I explore differen
 - With Support Vector Machine, predicted with 99% accuracy whether a donor would donate blood in the subsequent month.
 
 ## 3. Students' results
-- Nature or nurture -- will the education level of parents influence that of their child? Conventional wisdom affirms [this] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2853053/) Using simple linear regression, I predict with XX% accuracy the results of students.
+- Nature or nurture -- will the education level of parents influence that of their child? Is the education level of a father a greater determinant? [Guardian](https://www.theguardian.com/society/2014/sep/23/fathers-education-child-success-school) Conventional wisdom affirms [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2853053/). Using simple linear regression, I predict with 97% accuracy the results of students.
