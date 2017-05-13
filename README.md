@@ -8,3 +8,9 @@ Documenting my data science projects; exploring different machine learning algor
 **2. Project 2**
 - Project 2 summary
 Project 2 content  
+
+
+> Block quotes have to start and end with a blank line
+
+> And each line of the quote starts with a right angle bracket and a space
+> Depends 
