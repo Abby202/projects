@@ -7,6 +7,8 @@ This repository documents all my data science projects, where I explore differen
 
 > *"Produce 101 Season 2 (프로듀스 101 시즌 2) is a 2017 reality boy band survival show on Mnet. It is a large-scale project in which the public "produces" a unit boy band by choosing members from a pool of 101 trainees from 54 entertainment companies as well as the group's concept, debut song, and group name. 11 trainees will be selected to form the unit boy group.""*
 
+> Wikipedia 
+
 ## 2. Blood Donation
 - With Support Vector Machine, predicted with 99% accuracy whether a donor would donate blood in the subsequent month.
 
