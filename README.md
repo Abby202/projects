@@ -1,5 +1,7 @@
 # Data Science Projects
 
+Documenting my data science projects; exploring different machine learning algorithms. 
+
 **1. Produce 101 Season 2 Predictions**
 - Using SVM to predict
 Project 1 content
