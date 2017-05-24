@@ -11,7 +11,7 @@ This repository documents all my data science projects, where I explore differen
 - With Support Vector Machine, predicted with 99% accuracy whether a donor would donate blood in the subsequent month.
 
 ## 3. Students' results
-- Nature or nurture -- will the education level of parents influence that of their child? Is the education level of a father a greater determinant? [Guardian](https://www.theguardian.com/society/2014/sep/23/fathers-education-child-success-school) and conventional wisdom affirms [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2853053/). Using simple linear regression, I predict with 97% accuracy the results of students.
+- Nature or nurture -- will the education level of parents influence that of their child? Is the education level of a father a greater determinant? [Guardian](https://www.theguardian.com/society/2014/sep/23/fathers-education-child-success-school) and [conventional wisdom](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2853053/) affirms this. Using simple linear regression, I predict with 97% accuracy the results of students.
 
 ## 4. Wells
-- With Artificial Neural Networks, predicted the state of wells in Tanzania. 
+- With Artificial Neural Networks, predicted the state of wells in Tanzania using artificial neural networks and xgboost with a 70% accuracy.
