@@ -15,3 +15,6 @@ This repository documents all my data science projects, where I explore differen
 
 ## 4. Wells
 - With Artificial Neural Networks, predicted the state of wells in Tanzania using artificial neural networks and xgboost with a 70% accuracy.
+
+## 5. Nutella - All Hype?
+- Nutella's change in recipe was a public relations disaster -- or so they say. Although the first news articles on the recipe change were released on 2 Nov, most of social media didn't quite react until a Dailymail article on the 6th. Since then, public interest has dimmed. 
